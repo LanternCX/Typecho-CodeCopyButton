@@ -7,7 +7,7 @@
  * @version 1.3.0
  * @link https://github.com/LanternCX/Typecho-CodeCopyButton
  */
-class CopyCode_Plugin implements Typecho_Plugin_Interface
+class CodeCopyButton_Plugin implements Typecho_Plugin_Interface
 {
     public static function activate()
     {
