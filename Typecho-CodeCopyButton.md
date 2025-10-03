@@ -4,7 +4,9 @@ A simple Typecho plugin to add a **copy button** for code blocks.
 
 ## Features
 
-![demo](/Users/caoxin/Code/Typecho-CodeCopyButton/img/demo.gif)
+![demo](./img/demo.gif)
+
+You can also try it out on [my blog](https://www.caoxin.xyz).
 
 ## Installation
 
